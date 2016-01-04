@@ -1,0 +1,28 @@
+name: serbjodha
+favicon: null
+layout_spectrum: 0.03353153308853507
+typography_spectrum: 0.7766530809458345
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5857856005895883
+  lightness: 0.2642435529269278
+  saturation: 0.5559925283305347
+  rhythmicContrast: 0.5783905475400388
+purpose: []
